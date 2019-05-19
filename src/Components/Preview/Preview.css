@@ -1,0 +1,9 @@
+.input {
+    height: 400px;
+    padding: 30px;
+    font-size: 125%;
+    line-height: 1.5;
+    border: 2px solid #eee;
+    font-weight: 400;
+    transform: translateY(-100px);
+}

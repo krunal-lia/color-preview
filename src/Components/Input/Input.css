@@ -1,0 +1,19 @@
+.input {
+    width: 100px;
+    height: 30px;
+    padding: 0px;
+    margin-bottom: 30px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.heading {
+    font-size: 120%;
+    font-weight: 400;
+}
+
+.button {
+    display: inline-block;
+    margin-left: 20px;
+    transform: translateY(-5px);
+}
